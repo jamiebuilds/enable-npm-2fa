@@ -1,0 +1,11 @@
+{
+  "name": "enable-npm-2fa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "puppeteer": "^1.6.1"
+  }
+}
